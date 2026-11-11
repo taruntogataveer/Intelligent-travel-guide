@@ -53,27 +53,27 @@ Destination Guide:
 Destinations:
 <img src="pics/destinations.png" alt="" width="75%" align="center">
 
-Destinations:
-<img src="pics/destination2.png" alt="">
+Destinations: <br>
+<img src="pics/destination2.png" width="75%" alt="">
 
 Dashboard: <br>
-<img src="pics/dashboard.png" alt="" width="30%" align="center">
+<img src="pics/dashboard.png" alt="" width="75%" align="center">
 </p>
 
 AI Assistant: <br>
-<img src="pics/ai assist.png" alt="" width="30%" align="center">
+<img src="pics/ai assist.png" alt="" width="75%" align="center">
 </p>
 
 Recommendations: <br>
-<img src="pics/recommendations.png" alt="" width="30%" align="center">
+<img src="pics/recommendations.png" alt="" width="75%" align="center">
 </p>
 
 Locations: <br>
-<img src="pics/search loc..png" alt="" width="30%" align="center">
+<img src="pics/search loc..png" alt="" width="75%" align="center">
 </p>
 
 Locations: <br>
-<img src="pics/search loc.2.png" alt="" width="30%" align="center">
+<img src="pics/search loc.2.png" alt="" width="75%" align="center">
 </p>
 
 <h2 id="pre">🗁 Prerequisites</h2>
