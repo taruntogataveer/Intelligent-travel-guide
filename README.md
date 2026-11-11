@@ -50,7 +50,7 @@ Google OAuth Sign in:
 Destination Guide:
 <img src="pics/dest. guide.png" alt="">
 
-Destinations:
+Destinations: <br>
 <img src="pics/destinations.png" alt="" width="75%" align="center">
 
 Destinations: <br>
