@@ -42,24 +42,39 @@
 
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+<img src="pics/homepage.png" alt="">
 
 Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
+  <img src="pics/oauth.png" alt="">
   
-Create Travel Guide Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
+Destination Guide:
+<img src="pics/dest. guide.png" alt="">
 
-View Travel Plan Page: AI-generated Hotel Recommendations & Places to Visit
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
+Destinations:
+<img src="pics/destinations.png" alt="" width="75%" align="center">
 
-My Travel Plans Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
+Destinations:
+<img src="pics/destination2.png" alt="">
 
-Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
+Dashboard: <br>
+<img src="pics/dashboard.png" alt="" width="30%" align="center">
 </p>
- 
+
+AI Assistant: <br>
+<img src="pics/ai assist.png" alt="" width="30%" align="center">
+</p>
+
+Recommendations: <br>
+<img src="pics/recommendations.png" alt="" width="30%" align="center">
+</p>
+
+Locations: <br>
+<img src="pics/search loc..png" alt="" width="30%" align="center">
+</p>
+
+Locations: <br>
+<img src="pics/search loc.2.png" alt="" width="30%" align="center">
+</p>
 
 <h2 id="pre">🗁 Prerequisites</h2>
 
